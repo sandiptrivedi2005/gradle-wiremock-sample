@@ -1,0 +1,4 @@
+management.security.enabled: false
+server:
+  port: 9012
+  contextPath: /wiremocksample

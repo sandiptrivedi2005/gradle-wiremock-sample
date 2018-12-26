@@ -1,0 +1,10 @@
+{
+  "request" : {
+    "urlPathPattern" : "/cp/api/pools/.*/lineup",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "/lineup_res.json"
+  }
+}

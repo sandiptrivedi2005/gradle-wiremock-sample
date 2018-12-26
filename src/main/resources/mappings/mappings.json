@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/say/hi"
+  },
+  "response": {
+    "status": 200,
+    "body": "Hi Wiremock!",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}

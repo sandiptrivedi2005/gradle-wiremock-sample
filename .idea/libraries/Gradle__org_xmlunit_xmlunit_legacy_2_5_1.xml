@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.xmlunit:xmlunit-legacy:2.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-legacy/2.5.1/8c73fbce63d53dd873afe4b3de7d01026846fe0d/xmlunit-legacy-2.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-legacy/2.5.1/ca35dbcfd2819c6eddb4009420b7d8a225fb54d0/xmlunit-legacy-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
