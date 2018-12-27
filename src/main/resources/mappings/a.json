@@ -1,10 +1,22 @@
 {
   "request" : {
-    "urlPathPattern" : "/cp/api/pools/.*/lineup",
+  "urlPathPattern" : "/cp/api/pools/.*/lineup",
+  "method" : "GET"
+},
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "/lineup_res.json"
+  },
+  "request" : {
+    "urlPathPattern" : "/cp/api/pools/.*/lineup/400",
     "method" : "GET"
   },
   "response" : {
     "status" : 200,
-    "bodyFileName" : "/lineup_res.json"
+    "body": "400 Error!",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
   }
+
 }
